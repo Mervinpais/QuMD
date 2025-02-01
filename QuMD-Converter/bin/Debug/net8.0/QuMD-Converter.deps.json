@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "QuMD-Converter/1.0.0": {
+        "runtime": {
+          "QuMD-Converter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuMD-Converter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
