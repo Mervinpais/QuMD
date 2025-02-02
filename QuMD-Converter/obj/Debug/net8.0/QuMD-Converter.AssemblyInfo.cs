@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuMD-Converter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0bcdcf2d4466e59b78ae93aa5c4db9fc170b436")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+865c7676ee4f7c92d3a4d1c9516547971270de4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuMD-Converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuMD-Converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

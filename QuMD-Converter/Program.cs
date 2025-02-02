@@ -39,9 +39,9 @@ class Program
                         Console.WriteLine("Command does not exist!!!");
                         break;
                 }
-                Console.WriteLine("Program exiting...");
-                Console.WriteLine("Exit code: " + Environment.ExitCode); //debug purposes
             }
+            Console.WriteLine("Program exiting...");
+                Console.WriteLine("Exit code: " + Environment.ExitCode); //debug purposes
         }
     }
 
