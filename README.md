@@ -110,4 +110,5 @@ See also the list of contributors who participated in this project.
 i like my contributors null bruh (jk)
 ```
 
-For any bugs, open an issue or email me at ![mervinpais14@protonmail.com](mailto:mervinpais14@protonmail.com)
+For any bugs, open an issue or email me at;
+![mervinpais14@protonmail.com](mailto:mervinpais14@protonmail.com)
