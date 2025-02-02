@@ -7,41 +7,27 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/*)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/e/e)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
 ---
 
-<p align="center"> A simple way to write markdown faster, quicker, speedly, &lt insert speed adjective &gt - er! idk man
-    <br> 
-</p>
+A simple way to write markdown faster, quicker, speedly, < insert speed adjective > - er! idk man
 
-## 📝 Table of Contents
+## 🧐 About
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
-## 🧐 About <a name = "about"></a>
-
-Ever wanted to write markdown faster?
+Ever wanted to write markdown faster?  
 No?
 
 Well guess what! We made it anyway!
 
 aaaaaaaaaaaaaa
 
-instead of `## ABC` we can just write it as `h2 ABC`
+instead of `## ABC` we can just write it as `h2 ABC`  
 might not seem efficient at first buuuuuuuut!
 
 ```md
@@ -58,7 +44,7 @@ para
 
 vs
 
-```QuMD
+```qmd
 h1 Hello
 h2 Yes
 h3 Hello world
@@ -67,82 +53,61 @@ h5 Eh
 h6 Lol
 para
 l list item 1#
+a attribute link duisfhshfudiish
 ```
+
 harder to read, but easy to type quickly babyyyyy
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+### 🏁 Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## Direct use
 
-### Prerequisites
+Download the latest release from the releases page
+**then just unzip and run the exe, with args in the terminal or directly**
 
-What things you need to install the software and how to install them.
+args follow this structure;
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
+```cmd
+<inputFilePath> -o <outputFilePath>
 ```
 
-And repeat
+or just
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+```cmd
+<inputFilePath>
 ```
 
-### And coding style tests
+Same for when you run the app directly, just enter it manually.
 
-Explain what these tests test and why
+## Building
 
+### Pre-requisites
+
+- .NET 8 C#
+- A good IDE
+
+```cmd
+git pull <gitURL>
 ```
-Give an example
-```
 
-## 🎈 Usage <a name="usage"></a>
+Then just contribute or just edit the project to fit your needs :)
+
+### 🎈 Usage
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+### ⛏️ Built Using
 
-Add additional notes about how to deploy this on a live system.
+- C# - .NET 8
+- Git - Package manager
+- Lazyness
 
-## ⛏️ Built Using <a name = "built_using"></a>
+See also the list of contributors who participated in this project.
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+### 🎉 Acknowledgements
 
-## ✍️ Authors <a name = "authors"></a>
+```cmd
+i like my contributors null bruh (jk)
+```
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+For any bugs, open an issue or email me at ![mervinpais14@protonmail.com](mailto:mervinpais14@protonmail.com)

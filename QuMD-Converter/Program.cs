@@ -18,15 +18,29 @@ class Program
         else {
             bool exit = false;
             while (!exit) {
+                Console.Write("\nEnter file path to convert back to Markdown (h for help)> ");
                 string? input = Console.ReadLine();
-                if (input == "") continue;
-                if (input.Contains(" -o ")) {
-                    (string inputFile, string outputFile) = SplitIntoInputAndOutput(input.Split(" "));
-                    Convert(inputFile, outputFile);
+                switch (input) {
+                    case "":
+                        continue;
+                    case "q":
+                        exit = true;
+                        break;
+                    case "h":
+                        break;
+                    case string i when input.Contains(" -o "):
+                        (string inputFile, string outputFile) = SplitIntoInputAndOutput(input.Split(" "));
+                        Convert(inputFile, outputFile);
+                        break;
+                    case string i when File.Exists(input) && !input.Contains(" -o "):
+                        Convert(input);
+                        break;
+                    default:
+                        Console.WriteLine("Command does not exist!!!");
+                        break;
                 }
-                else {
-                    Convert(input);
-                }
+                Console.WriteLine("Program exiting...");
+                Console.WriteLine("Exit code: " + Environment.ExitCode); //debug purposes
             }
         }
     }
