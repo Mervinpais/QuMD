@@ -1,0 +1,5 @@
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/publish/QuMD-Converter
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/publish/QuMD-Converter.dll
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/publish/QuMD-Converter.deps.json
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/publish/QuMD-Converter.runtimeconfig.json
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/publish/QuMD-Converter.pdb

@@ -1,0 +1,14 @@
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/QuMD-Converter
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/QuMD-Converter.deps.json
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/QuMD-Converter.runtimeconfig.json
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/QuMD-Converter.dll
+/home/mpais/Desktop/QuMD/QuMD-Converter/bin/Release/net8.0/QuMD-Converter.pdb
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.AssemblyInfoInputs.cache
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.AssemblyInfo.cs
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.csproj.CoreCompileInputs.cache
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.dll
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/refint/QuMD-Converter.dll
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.pdb
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/QuMD-Converter.genruntimeconfig.cache
+/home/mpais/Desktop/QuMD/QuMD-Converter/obj/Release/net8.0/ref/QuMD-Converter.dll

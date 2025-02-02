@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TAj/fcNQ6vE=",
+  "dgSpecHash": "09m3i5guwzQ=",
   "success": true,
   "projectFilePath": "/home/mpais/Desktop/QuMD/QuMD-Converter/QuMD-Converter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/mpais/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.12/microsoft.netcore.app.runtime.linux-x64.8.0.12.nupkg.sha512",
+    "/home/mpais/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.12/microsoft.aspnetcore.app.runtime.linux-x64.8.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
