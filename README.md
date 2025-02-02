@@ -18,6 +18,13 @@
 
 A simple way to write markdown faster, quicker, speedly, < insert speed adjective > - er! idk man
 
+---
+
+# WARNING: ⚠️⚠️⚠️⚠️
+## This is not finished
+
+---
+
 ## 🧐 About
 
 Ever wanted to write markdown faster?  
